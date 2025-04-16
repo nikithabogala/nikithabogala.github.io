@@ -24,7 +24,7 @@ skills:
 
 🎓 Master's in CS at [Arizona State University](https://www.asu.edu/) | GPA: 3.94/4.0
 
-🔧 Software Engineer | 2+ years @ Barclay and @Verizon
+🔧 Software Engineer | 2+ years @ Barclays and @Verizon
 
 🚀 Passionate about Distributed Systems, AI Agents Development and Cloud Architecture. 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Hello World! My name is'
 name: 'Nikitha Bogala'
-subtitle: "Turning Coffee into Code and Microservices into Magic"
+subtitle: "Turning Coffee into Code and Complexity into Clarity"
 buttonText: 'Contact Me'
 ---
 👩‍🎓 I am pursuing a Master's degree in Computer Science from [Arizona State University](https://www.asu.edu/)(July'25), providing me with a solid groundwork to tackle complex challenges.
